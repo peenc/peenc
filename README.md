@@ -13,6 +13,9 @@
   - Autenticação com Spring Security
   - Geração e leitura de QR Codes
   - Integração com API Pix do Banco do Brasil
+ 
+- 🧠 Contribuição em **projeto de Visual Novel com Ren'Py**
+  - Responsável pela lógica do jogo, condições, escolhas e rotas personalizadas
 
 ---
 
@@ -22,6 +25,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Desenvolvimento Web e Backend
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -42,12 +46,15 @@
 ### Outros
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-FF6699?style=for-the-badge&logo=renpy&logoColor=white)
 
 ---
 
 ## 🌱 Atualmente Aprendendo
 - Testes unitários
-- Estruturação de projetos web escaláveis
+- Integração de QR Code com Spring Boot
+- Estruturação de sistemas escaláveis e seguros
+- Game scripting com Ren'Py e GDScript
 - Arquitetura de software (monolito vs microsserviços)
 
 ---
