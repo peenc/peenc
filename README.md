@@ -63,7 +63,7 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=peenc&show_icons=true&theme=radical&count_private=true)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=peenc&theme=github-dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peenc&layout=compact&theme=radical)
 
 ---
