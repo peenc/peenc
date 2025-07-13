@@ -28,16 +28,17 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Desenvolvimento Web e Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### 🧩 Desenvolvimento Web e Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Banco de Dados
+### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JPA / Hibernate](https://img.shields.io/badge/JPA%20/%20Hibernate-007396?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### Integrações e Ferramentas
 ![Pix API](https://img.shields.io/badge/Pix-00B14F?style=for-the-badge&logo=bradesco&logoColor=white)
