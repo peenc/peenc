@@ -15,7 +15,7 @@
   - Integração com API Pix do Banco do Brasil
  
 - 🧠 Contribuição em **projeto de Visual Novel com Ren'Py**
-  - Responsável pela lógica do jogo, condições, escolhas e rotas personalizadas
+  - Responsável pela lógica do jogo utilizando **Python**, controlando condições, escolhas e rotas personalizadas
 
 ---
 
