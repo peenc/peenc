@@ -72,5 +72,5 @@
 ## 📫 Contato
 
 - ✉️ Email: pedro_cardoso@ufrrj.br
-- 💼 Portfólio: em construção...
+- 💼 Portfólio: https://pedronunescardoso.vercel.app/ (em construção...)
 
